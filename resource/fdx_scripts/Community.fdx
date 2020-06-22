@@ -1,0 +1,2499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="1">
+
+  <Content>
+    <Paragraph Type="Action">
+      <Text>COMMUNITY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>by</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dan Harmon</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>January 28th, 2009</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>COLD OPEN</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FADE IN:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. COURTYARD DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The campus of a large but humble community college a few miles from your home.  Cambridge bells chime.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Actually, the bells are playing on an old boom box, which is now stopped by Dean PELTON [40s, rotund], who is holding a microphone hooked up to it.  He is on a small stage at the front of the courtyard.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He starts to speak into the microphone, realizes it’s not working and fiddles with the boombox switches.  He begins to speak, but a Busta Rhymes cd starts playing instead:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BUSTA RHYMES</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(on cd)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yo.  I’m high as hell right now, and I’m about to bust your ass open, but first -</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Pelton, an apparently humorless man, frantically figures out how to stop the cd, then addresses the students.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PELTON</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good morning.  Many of you are halfway through your first week here at Greendale and, as dean, I thought I would share a word of inspiration.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Pelton reads from a small stack of index cards:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PELTON  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What is Community College?  Well, you’ve heard all kinds of things. You’ve heard it’s “loser college” for young people who couldn’t make the cut at a university.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ANNIE [18, tightly wound, sweater vest] is walking through the courtyard when she hears this, causing her to stop.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>TROY [18, letter jacket, All American], is seated on a bench with a breakfast burrito.  He looks up, a little put-off.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PELTON  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s “halfway school” for twentysomething dropouts, crawling back to society with unskilled tails between their legs.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. COURTYARD DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>BRITTA [late 20s, sweatshirt, pony tail, unadorned and accidentally hot], is interrupted in her confident stride by what she’s hearing.  She stops and looks as if called by name.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PELTON  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A tax-funded self esteem workshop for newly divorced housewives piecing together shattered identities,</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SHIRLEY [early 40s, shy, modest 90s attire], was briskly crossing the courtyard, eyes cast downward.  She stops and looks toward the stage.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PELTON  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>and old people hoping to keep their minds active as they circle the drain of eternity.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>PIERCE [50s, prescription sunglasses, turtleneck, sport jacket], was talking to a group of young people, but stops.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In fact, Pelton now has the undivided attention of most of the pedestrians in the courtyard.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PELTON  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s what you’ve heard.  However:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He flips to the next index card.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PELTON  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I wish you luck.  Wait -</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Confused, Pelton flips through his cards as the slightly deflated students resume their activity.  Pelton calls out to them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PELTON  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There was... a middle part of that speech, if you see a card...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Walking amongst the rest of the students and not thrilled to be doing so: JEFF Crocker, [30s, well dressed, dashing but rough around the edges].  He is paced and orbited by ABED [20s, Arabic, “geek chic” Weezer fan clothes], who seems generally intrigued by everything all the time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m only half Arabic, actually, my Dad is Palestinian, I mean, he’s a U.S.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(MORE)</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. COURTYARD DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED  (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Citizen and he’s not a threat to national security or anything, a lot of people want to know that after they meet him, because he has an angry energy, but not like angry at America, just angry at my Mom for leaving him, although she did leave because he was angry, and he was angry because she was American. My name’s Abed, by the way.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Abed, nice to know you, and then meet you, in that order.  Now about that question I had.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(looks at watch)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Five after eleven.  When you asked.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thanks.  I’ll talk to you in a few months, if that’s cool.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh.  Few months.  Okay.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Abed starts to walk away but Jeff puts a hand on his shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey, let me ask you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff pulls Abed closer and indicates someone in the distance: It’s Britta, heading into the cafeteria.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The hot girl from Spanish class, what’s her deal, I can’t find a road in there.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, I’ve only talked to her once while she was borrowing a pencil, but her name’s Britta, she’s 28, birthday in October, she has two older brothers and one of them works with children who have a disorder I might want to look up. Oh, and she thinks she’s going to flunk tomorrow’s quiz so she really needs to focus and she’s sorry if that makes her seem cold.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. COURTYARD DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Abed, I see your value, now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s the nicest thing anyone’s ever said to me.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. CAFETERIA</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Britta moves down a food line, assembling her meal from bins of saran wrapped items.  Jeff gets in line next to her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, hey.  Spanish.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, just don’t hit on me, okay?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whoa.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And as you walk away, don’t call me a lesbian or say “don’t flatter yourself.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Anything I should do?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You should not hit on me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Listen, I just wanted to let you know about my Spanish study group.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The guy that spent today’s class playing Bejeweled on his iphone has a study group?  Am I allowed to sign up twice?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m taking that class for the easy credit.  I actually tutor Spanish.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She turns to him.  On the hook but suspicious.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Say that in Spanish.  Now.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. CAFETERIA</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff sighs, shouldering her cynicism with grace, and uses gestures to indicate his mind, school and language:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Duermo tarde Espanol, una hora mas, no rayar mi coche.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Subtitle:  I sleep late Spanish, one more hour, do not scratch my car.  She squints.  Then surrenders.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I really need help with Spanish.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was willing to bet.  I’m Jeff. The group meets in the library at six.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll be there.  I’m Britta.  Thank you so much, this is great.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Britta finishes paying for her food and walks away.  Jeff turns to the ELDERLY BLACK WOMAN at the cash register.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Technically, I am in college, so it’s okay to use a college move, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ELDERLY BLACK WOMAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Huh?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry.  I was raised on TV, I think every black woman over fifty is a cosmic mentor with free advice.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ELDERLY BLACK WOMAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How about for two twenty five you can have your damn tacos.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes ma’am.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff gets out his wallet.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FADE OUT.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. CAFETERIA</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ACT I</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FADE IN:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. SCIENCES BUILDING - DUNCAN’S OFFICE</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Psychology Professor DUNCAN [30s, low calibre hippy] is working at his desk in a small office lined with plants, books and weird art.  Jeff appears in his doorway.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re a hard man to reach, Professor.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Duncan takes a moment to place the face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jeff Crocker?  Attorney at law?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He stands and shakes Jeff’s hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You remember.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How could I forget?  I still can’t figure out how you got a jury to connect September 11th with my DUI. Let alone why it helped.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>2002 was a simpler time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s my lawyer doing on campus?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m a student.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That can’t be an inspiring journey.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Duncan goes to a dorm-sized fridge and grabs two beers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Eh, those ivy league twits on the state bar have had me under a microscope since I started. They’ve suddenly decided that even though I have a law degree, my college degree isn’t “legitimate.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Duncan hands Jeff one of the beers.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. SCIENCES BUILDING - DUNCAN’S OFFICE</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I thought you had a bachelor’s from Columbia.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And now I have to get one from America.  They must have noticed the eagle in the seal was holding coffee branches.  I’m dead in the water until I replace that degree.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If you’re in my class, I hope you’re not going to ask for special treatment.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Professor, please, I do have rules. I would never take psychology, it’s boring.  But I was hoping that, as a teacher, you could get me all the quizzes, tests and exams for the classes I am taking this semester.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff places a sheet of paper on Duncan’s desk.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jeff, you just described - no, defined cheating.  Not only is it illegal, it’s unethical.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He takes a drink of his own beer.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, laws are tools.  We reshape them to suit the job.  And you seemed less concerned with ethics the day I convinced twelve of your peers that when you did a U turn on a freeway and tried to order chalupas from an emergency call box, your only real crime was being an American.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re saying I owe you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m not saying that.  I’m giving you pieces of a puzzle, which, when put together, form a picture of you owing me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Duncan gets somber.  He surrenders.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. SCIENCES BUILDING - DUNCAN’S OFFICE</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll look into it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff heads for the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll be in the library at six, but by 6:20, my fake study group will not have shown up and I’ll have to take a very hot girl to dinner.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, Jeff.  Don’t lie to women.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(doesn’t care)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whoops!</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. LIBRARY - STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff is seated at a big table, reading a Spanish text book.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(repeating)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Bienvenido.  Bienvenido.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Britta walks in.  He smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Bienvenido!  Have a seat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff puts a notepad in front of her while she gets settled at the room’s large table.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You can put your contact info on here.  I guess the group is running late, but we can get acquainted.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She writes some stuff on the pad.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You may have noticed this morning, I’m not great at small talk.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I want to talk big.  I want to know, what’s your deal?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s not small talk?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. LIBRARY - STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s your deal and IS GOD DEAD?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright.  My deal.  I dropped out of high school to pursue my love of anarchy.  I made a lot of new friends vandalizing billboards, I helped coordinate us into a very large, successful movement of anarchist billboard vandals, and we decided I was the leader, which meant we had to kick me out, because we were anarchists.  Soon after, they became an advertising firm.  One of their shampoo billboards is across the street.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The one that says “hey, it’s your hair, we just want to clean it?”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Power to the people.  And you can go on Facebook and see photos of their children, who have names like Hemingway and Chomsky and who are seated in the backs of SUVs.  So I guess my deal is, be honest with me and I’ll like you.  Because I may be broke and “crawling back to society” but I’m doing it having learned that what’s most important to me is honesty.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(concern)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good thing to learn.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s most important to you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I would say...honesty, because...</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(surrender)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I would say anything to get what I want and I want you to like me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Very honest answer.  So you get your wish.  I like you fine.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff blinks.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. LIBRARY - STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, see how easy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s it, huh?  No Looney Tunes character tattooed on your hip I have to pretend to love?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not me.  Buy me dinner, don’t lie to me and we’ll be in bed before midnight.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two of them chuckle at her joke.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>- All kidding aside, if you’re hungry -</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Abed enters.  Britta looks as though she was expecting him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Abed’s in the house!  Whoooo!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(good fake enthusiasm)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whooooo, Abed!  Also whyyyyy?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Britta invited me, is that cool?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(plastered smile)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I can’t think of a single logical reason why not.  Have a seat.  And put your contact info here.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Abed sits down to write on the notepad.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Cool cool cool cool.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(while writing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey, this is kind of like Breakfast Club, huh?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(supporting it)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’re in a library.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>With great precision, Jeff reads Abed’s cell number while punching it into his own phone under the table.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. LIBRARY - STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, yeah, and we’re students, from different backgrounds, and I’m sure we’ve each got a thing, like an issue, all balled up inside of us that would make us cry if we talked about it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff thumbs something into his phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you have something balled up inside you want to talk about?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(thinks about it)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, I got a little doozy in the chamber I can let loose if things get emotional.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Abed’s phone beeps.  His reaction makes Jeff nervous.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whoa!  Text message.  Let’s give this bad boy a read.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Abed picks up his phone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sure it’s personal -</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>- No, I don’t know this person.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(clears throat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>“Say you have to pee I need to talk to you.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff pretends to digest it along with the other two, all of them exchanging confused looks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>“Say you have to pee?”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Weird.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah.  Creepy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Professor Duncan ducks his head into the room, sees Jeff, then sees the others.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jeffrey, a quick word?  About psychology?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. LIBRARY - STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll be right back.  When it’s about psychology, it’s urgent.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff heads for the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What if the group shows up?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They’ll know what to do.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. ATHLETIC FIELD DUSK</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A motley crew of would-be athletes are trying out for the apparently all-ages track team.  Currently, a ninety year old man is prepping himself on the starting line.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff and Duncan are standing out in the middle of the field.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I could get fired for having this conversation, so act like you’re watching the athletic proceedings.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You couldn’t stop me from watching. There is a man trying out for your track team that is older than the game of poker.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(noticing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And he’s kinda truckin’.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Suppose I did feel indebted to you, Jeff.  And suppose I said it was possible to get you these answers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’d say go for it.  And, for future reference, you can ask me stuff like that way closer to wherever we’re originally standing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m asking if you understand the difference between right and wrong.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. ATHLETIC FIELD DUSK</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I understand “right” and “wrong” are slippery slopes that end with presidents who don’t believe dinosaurs existed.  And I’ve understood since I was a kid that if I talked long enough, I could make anything true.  So either I’m God or truth is relative, and in either case: booyah.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Interesting.  The average person has a harder time saying “booyah” to moral relativism.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ian, you don’t have to play shrink to protect your pride, I accept that you’re a chicken.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you trying to use reverse psychology on a psychologist?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m just using normal psychology on a pussy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You can’t talk to me that way!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A six year old girl could talk to you that way!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because it would be adorable!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, because you’re a five year old girl, and there’s a pecking order!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>FINE, I’LL DO IT!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>COACH BARTEL  (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>- Gentlemen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>COACH BARTEL [stocky, 40s] is approaching their exchange.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. ATHLETIC FIELD DUSK</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>COACH BARTEL  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is an athletic field, not a rehearsal of Glengarry Glen Ross, and I should know, because I run both the Sports and Theatre departments.  Take it elsewhere.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff and Duncan start walking off the field together.  Coach Bartel calls after them:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>COACH BARTEL  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Either of you guys play football? It’s looking that bad this year.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. LIBRARY - STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff enters, feigning disappointment.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, I just found out that the rest of the group -</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Britta is not at the table, but Abed is, along with four new students: Pierce, Shirley, Troy and Annie.  They look at him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>- is here?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Britta’s in the bathroom, I think, and I invited more people from Spanish class, is that cool?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff raises a fist that immediately becomes a thumbs-up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s the coolest.  I should go to the bathroom, too.  And I should bring my jacket, keys and wallet in case there’s a fire.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. LIBRARY - LOBBY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff is on his way to the exit doors.  He nearly collides with Britta, who is entering the lobby.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ah.  Busted.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(confiding)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(MORE)</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. LIBRARY - LOBBY</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA  (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I barely smoke.  But that group is getting big, made me skittish, I started craving a grit.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Same here.  I saw those faces and I just had to ...suck a ..leaf tube,</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(hail Mary)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe you and I would get more studying done over -</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Britta laughs at the proposition.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>- Dinner?  Come on, we both know that’s when the studying stops. Let’s do this thing first.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She starts walking away, then adds:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If it really turns out to be a train wreck, we’ll slip out early.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She walks away.  Jeff mulls this over.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh.  I can do a train wreck.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>OLD BLACK WOMAN  (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What a tangled web we weave.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff is startled to see the old black woman from the cafeteria next to him in the lobby.  She’s placing books on a cart, unloading the overnight return bin.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t you work in the cafeteria?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>OLD BLACK WOMAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I have many jobs.  In many places.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff’s jaw drops.  She rolls her eyes at him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>OLD BLACK WOMAN  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m not magical, I’m underpaid. You racist jackass.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff heads back to the study room, ready for action.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FADE OUT.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. LIBRARY - LOBBY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ACT II</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FADE IN:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff settles into his chair at the head of the table.  He looks around the room.  There’s Britta, there’s Abed, there’s Annie the type-A teen, Troy the meat head jock, Shirley the closed-up ex-housewife and Pierce the weird old man with neatly brushed grey hair and some kind of stone around his neck he must have bought at a tarot card store.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alllll right.  Look at this crew. Alllll ready to study alllll night.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone concurs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But who studies with strangers, right?   We’re all in the same class and we don’t even know each other, my name is Jeff.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Pierce speaks.  He talks kind of like George Takei.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jeff, it’s a pleasure, my name is Pierce Hawthorne and yes, that is Hawthorne as in Hawthorne Wipes, the award winning moist towelette.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was just going to ask.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m also a Rotarian and no stranger to public speaking so maybe I should make the introductions.  You already know Britter.  Brittles?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Britta.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My apologies Britta, you also know A-bed, A-bed the A-reb, is that inappropriate?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(as if asked to get ice)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sure.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ve got Roy, Roy, the wonder boy I call him, -</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TROY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>- Troy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are correct, and little princess Elizabeth, -</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANNIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Annie.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Very sorry, and finally this beautiful creature’s name is Shirley.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Shirley)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is that even close?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Shirley nods.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>One does not forget Shirley, she is a very, very fascinating, very gorgeous young woman.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Shirley does not appear to enjoy the flattery.  Jeff makes a mental note.  Annie speaks up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANNIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’d like to know why I had to find out about this group on accident.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, this is getting way more like Breakfast Club, now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We should get started studying -</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff goes into action, seeing an opening for his crowbar.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know, I’ve been part of a lot of study groups that fell apart because of unaddressed tension. Shouldn’t someone address Annie’s concern?  Did we not invite her?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SHIRLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, Annie, sweetie, I guess it didn’t occur to anyone -</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANNIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>- That’s strange, because I remember the first day of class, I asked if anyone was interested in starting a Spanish study group, and passed around a sign-up sheet, and when it came back, all that was on it was a drawing of a unicorn with a wiener instead of a horn, a guitar for a wiener and a dog emerging from its rear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That was a cat and he was going in.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(off her look)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What?  Everyone added something.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANNIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, and then gathered behind my back for a study group!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SHIRLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Pumpkin, it’s not behind your back, we just didn’t think about you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANNIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can we stop with the pumpkins and the sweeties?  Being younger doesn’t make me inferior, if anything, your age indicates you’ve made bad life decisions.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SHIRLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(simmering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Mmmmmmmm.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(seizing opportunity)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shirley has a response to that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SHIRLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, I don’t.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The entire room encourages her to respond.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SHIRLEY  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, I’m sure I’ve made bad life decisions.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(MORE)</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SHIRLEY  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I decided to spend twenty years raising children and cleaning up after a man who ran out the door ten minutes after winning one-oh- two-point-seven thousand dollars in a radio contest.  That was a bad decision.  And maybe Annie’s decisions will be better.  And I think she should decide whether she wants to be considered a child or an adult, because a child gets pity, but not respect, and adults can get respect but they can also get grabbed by the hair and have their faces put through jukeboxes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(blurting)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Seriously!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Britta quickly composes herself.  Annie pouts.  Shirley regains her shyness.  Pierce gives her head a supportive stroke, causing her to wince.  Jeff points a pen at Pierce, shifting to what he hopes is even more fertile ground for sowing discontent.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Pierce, let’s discuss this creepiness.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I beg your pardon?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you unaware Shirley finds your advances inappropriate?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What advances?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SHIRLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You have been sexually harassing me since the first day of class!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>“Sexually harassing?”  That doesn’t make sense, why would I “harass” someone that turns me on?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TROY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Saying she turns you on is the harrassment, buddy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Pierce slams the table with his fist.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am a business leader and a community pillar and I don’t take courting advice from teenage boys!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TROY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well this teenage boy is a quarterback and a prom king, so maybe you should!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANNIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re not prom king anymore, Troy, this isn’t Greendale High.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TROY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How did you know I went there?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANNIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because you’re wearing your stupid letter jacket and more importantly I SAT BEHIND YOU IN ALGEBRA!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TROY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wait, are you the girl that got hooked on pills and dropped out? You’re Little Annie Adderall!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANNIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And you’re a stupid jock that lost his scholarship because he celebrated getting it with a keg stand and dislocated both shoulders!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m ready!  I’m ready!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone looks at Abed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I bought one of those big binders to store my DVDs in.  And I left it in the sun, and the plastic sleeves melted to the discs, and they’re all unplayable and it’s my fault!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Abed starts sobbing real tears.  Everyone watches, confused.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s your Breakfast Club doozy?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(through sobs)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I love cinema!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff’s phone rings.  He answers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hello?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A very low voice from the other end:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN  (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(on phone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s Professor Duncan.  Come to the parking lot.  Now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s wrong with your voice?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN  (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(on phone)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m disguising it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll be right there.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff hangs up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now where are you going?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s an emergency.  You guys need to hash this stuff out anyway, because we can’t study with all this stuff seething under the surface.  I just hope at least one of you is here when I get back.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. PARKING LOT NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff enters the parking lot, looking around.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN  (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hello, Jeff.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Duncan emerges from between two cars, holding a large, thick envelope.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Every answer to every test in your curriculum this semester.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are the best.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. PARKING LOT NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff reaches for the package.  Duncan withholds it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But what do I get?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I thought we had a deal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Deals are bound by ethics, Jeff. Deals are for five year old girls.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you want.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Your Lexus.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>HA!  My luxury sedan for a semester’s worth of answers?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Come on, you’re never going to stop taking the easy way out.  I’ll be helping you for four years.  You want to get a degree while taking naps?  I want leather seats with built-in ball warmers.  Offer expires in ten seconds.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m supposed to do what, walk home?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Take my Prius.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Duncan holds up some keys.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>PRIUS?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s good for the Earth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So is wiping your butt with a leaf but it’s not how a man gets around!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Time’s up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Duncan starts to walk away.  Jeff panics.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. PARKING LOT NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright!</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. LIBRARY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff heads across the library toward the study room, carrying Duncan’s packet.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Britta opens the door and comes running to him.  We can hear chaos coming from the room behind her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s really bad in there.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, sounds like a train wreck. What do you say?  Time to go?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Go?  Jeff, I would rather flunk Spanish and starve to death than abandon a group of people in pain.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff stares at her for a beat, then:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You thought I meant time to go to dinner?  I meant time to go give these people the healing they need. Time to spread the love, time to set everything back to exactly the way it was before they got here.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She gives his arm one of those platonic but lingering touches that women have been using to secretly control civilization for 50,000 years.  As she heads back to the room, Jeff adds carefully:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then dinner.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FADE OUT.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. LIBRARY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ACT III</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FADE IN:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff walks in.  Everyone is sitting with their arms folded, staring at the table in front of them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How’s it going in here?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone explodes into furious name calling and arguing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright, alright.  Simmer down!  I want to tell you something!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They quiet down.  He squares himself.  Closing argument time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know what makes humans different from other animals?  We are the only species on Earth that observes Shark Week.  Sharks don’t even have Shark Week, but we do. For the same reason I can pick up this pencil, tell you its name is Steve, then go like this</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(snaps pencil)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And part of you dies just a little inside.  Because humans can connect to anything.  We can sympathize with a pencil, we can forgive a shark, we can give Ben Affleck an Academy Award for screenwriting.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone nods knowingly, touched.  Britta, however, remains poker-faced.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>People can find the good in just about anything but themselves. Look at me.  It’s obvious to all of you that I’m awesome, and yet, if I agreed with you, I would be an ass. But I can think Annie’s awesome in ways that I’m not.  She’s driven. Some people have to be driven or the power goes off and the ice cream melts.  And look at Pierce.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(MORE)</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Other guys his age are locked up in their houses yelling at the people on TV for farting, this guy is out here, with us, even though he’s earned the right to dismiss us. Just like Shirley’s earned a little elbow room, and a lot of respect, not as a wife, not as a mother, it’s time for her to be a woman, and don’t test her on that, because that thing about the jukebox was way too specific to be improvised, we want her on our side when we rumble with the other study groups.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The group murmurs in enthusiastic agreement.  Troy nods at Shirley.  Shirley smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You want Troy, too.  That’s why we’re tempted to dis the jacket, because it’s a symbol that intimidates us, you think astronauts go to the moon because they hate oxygen, come on, they’re trying to impress their high school’s prom king, and well they should, because I saw our track team tonight and I’m pretty sure Troy’s gonna be a big dog on campus.  And Abed.  You know, God made people with minds that wander because the answers we need are barely ever the ones we’re asking. Abed’s a shaman, ask him to pass the salt, you get a bowl of soup, and guess what, soup is better. Abed is better.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(beat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re all better than you think you are.  You’re just not designed to believe it when you hear it from yourself.  So everybody, do me a favor, look to the person on the left.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everybody does it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I want you to extend to that person the same compassion you extend to sharks, pencils and Ben Affleck.  I want you to say to that person, “I forgive you.”  Go ahead.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone says “I forgive you.”</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now look at me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone looks at Jeff.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You just stopped being a study group.  You have now become something unstoppable.  I hereby pronounce you a community.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Abed wipes at some tears.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s not like Breakfast Club anymore.  Now it’s like Stripes, or Meatballs.  Anything with Bill Murray, really.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I agree with Abed that tonight has been very special.  Too special for Spanish, really, and I think that, like the Breakfast Club, we ought to disband and reflect.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff looks at Britta and nods his head slightly toward the door, like, “let’s go.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Britta looks at Jeff.  She looks around the room at all the mesmerized faces.  Finally, she announces her decision while watching Jeff carefully.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Actually, now that we’re unstoppable, it’ll probably take no time at all to prepare for this quiz, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone agrees with that.  They’re very excited about studying, now.  Jeff goes to plan C.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I have a surprise for you guys.  We don’t need to study.  I have all the tests and answers for the semester.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff shows the packet he got from Duncan.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So.  All done.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone at the table is a bit taken aback.  Britta narrows her eyes on him.  Pierce puzzles through this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, Jeff, now, why in Hell’s Bells would you want to enroll in a community college to cheat?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I didn’t want to enroll here, Pierce, I have to be here.  I’m a lawyer.  I mean, I was a lawyer, and I’d like to get back to being one as soon as possible.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(gross)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A lawyer...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TROY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then why have a study group?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I DON’T HAVE A STUDY GROUP!  YOU PEOPLE JUST SHOWED UP!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Britta explains something to everyone she’d been putting together for a while.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It was all to get in my pants.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why can’t you see that for the compliment that it is?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANNIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What about the look left speech? Was that real?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I learned it at tennis camp when I was seven.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone is dismayed and disappointed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I added the Ben Affleck references!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Jeff, you had me at “I’m a lawyer,” and by had me, I mean had me ready to puke.  Now please leave and let us study before my gag reflex hits a tipping point.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. STUDY ROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But you’re not listening, I have the answers.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Britta physically gags.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Abed shakes his head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I thought you were like Bill Murray in any of his films.  But you’re really like Michael Douglas in any of his.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, well, you have Asperger’s.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As Jeff exits, everyone recoils in shock and comforts a confused Abed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He is not qualified to make that diagnosis.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. LIBRARY NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff exits the front doors, miffed, sour grapey, opening Duncan’s packet.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He gets the envelope open and pulls out a stack of papers from inside.  He looks at them, stunned.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>We watch as Jeff flips through a stack of pages from old Psychology Today magazines.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. DUNCAN’S OFFICE</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Professor Duncan is enjoying a pipe in his office and seems to have been expecting Jeff to burst through the door, which Jeff now does.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Before you react, you’ll want to think about the gift you’ve been given.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>An excuse to punch a hippy?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. DUNCAN’S OFFICE</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A second chance at an honest life. A life that starts here at Greendale.  All these tricks you acquired to survive out there, they have no use in this place that you’re wiping your feet on.  People here are excited and proud to be here, students and faculty alike. And frankly, we’re a little offended by the implication that there’s anywhere else we’d like to be.  This is a lesson you need to learn, Jeff.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff shrugs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, I’m...I’m sorry, but I’m not getting it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>DUNCAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe you’re incapable of learning.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is it possible you’re incapable of teaching?  It is community college. Now give me my keys or it’s going to get sloppy.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>DISSOLVE TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. COURTYARD NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff stomps across the empty night time campus of Greendale community college.  So fucked.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He sees the Old Black Woman sitting on one of the benches that is just outside the library entrance.  He starts walking to her.  She’s clearly bummed out about this.  He stands by her for a moment, mustering the confession:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>JEFF OLD BLACK WOMAN I don’t know how to do it. I don’t care.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She gets up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where are you going?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>OLD BLACK WOMAN</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(sarcastic)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t you know, honey child?</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(MORE)</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. COURTYARD NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>OLD BLACK WOMAN  (CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I gots to go polish that moon and hang them clouds out to dry.  But don’t you worry.  Outer space Jesus negro lady is watching over you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff slumps down on the bench as she walks away.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Great.  Even God thinks I’m a dick.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He sits there for a moment.  Puts his head back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Pierce emerges from the library’s front doors, sees Jeff, and pauses to take in the night air.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Boy.  There is Autumn, and then there is just Fall.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You may have purchased a knockoff calendar.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You said some nice things about me up there, Jeffrey.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Pierce sits on another bench across from him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And I do admit, I’ve got things to learn about the ladies.  You know I’ve been married seven times?  I’m starting to think I’m doing something wrong.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do I look like I’m in a position to give romantic advice right now?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Troy comes out of the library, sees them both and nods.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TROY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I thought you guys were studying.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TROY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’re done.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh.  That was fast.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Troy sits next to him, curious.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. COURTYARD NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TROY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let me ask you something.  People have been clowning me about this jacket since I got here.  But if I take it off to make them happy, I’m weak, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(shrug)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Troy, what’s it matter.  You lose the jacket to please them, you keep it to piss them off...either way, it’s for them, that’s what’s weak.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TROY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(epiphany)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whoa.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(bigger epiphany)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whoa.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(confusion)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wait, but -</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(realization)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whoa!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’s good, isn’t he?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TROY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My brain’s all wrinkly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff doesn’t necessarily mind the praise, but he’s still got wallowing to do.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Shirley and Annie come through the doors together.  Annie stops when she sees the boys sitting together.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANNIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is this another “we hate Annie” meeting?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SHIRLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, sweetie.  Nobody hates you.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(catching it)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry I called you sweetie, it’s a mother’s habit -</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ANNIE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>- It’s not that bad, really.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(almost crying)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My parents, um -</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(clears throat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is interesting architecture.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Abed and Britta come through the library doors.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. COURTYARD NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, hey, everybody.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Britta is not excited to see Jeff.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shouldn’t you be at home rolling around on a bed covered with quiz answers?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff tosses the envelope to her.  She looks at the contents.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ha!  Live by the sword, huh Amigo?</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(explaining)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Amigo means “friend.”  You might need to know that for tomorrow.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff nods, resigned to his fate.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I want to say something.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff starts to say something.  Then stops.  He gets a weird look on his face.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But nothing I say is true, so...I can’t...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He struggles.  Then, finally:</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sorry.  I need help.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He buries his face in his hands.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF  (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m gonna flunk.  I need help.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The group looks around at each other.  Mostly, they’re all looking at Britta.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Shirley looks at Britta with a face that says “do something.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Britta looks at Shirley with a “What?  Me?” face.  She indicates Jeff and makes a gagging gesture.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Shirley makes a gesture that means “give me a break and maybe also get over yourself because there are worse things in the world than men making asses of themselves over you.”</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Troy gestures insistently.  So does Pierce.  Abed is confused.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. COURTYARD NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ABED</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s going on?  Can you guys hear me?  Am I deaf?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff looks up, curious to see what Abed is talking about. Britta makes a decision.  She addresses the group.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey, um.  We should, um.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(clears throat)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We should get back upstairs, and finish, right?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff is confused.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I thought you were done.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who said that?  Are we done?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>PIERCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m not done.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone agrees they’re not done.  Abed is more confused.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, let’s go.  Jeff, you coming?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff is taken aback by the offer.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you serious?  I can study with you guys?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BRITTA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Eh.  You know.  If you want.  I don’t care.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Jeff stands up, recovering from his depression.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>JEFF</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s the nicest thing anyone’s ever said to me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The group heads back for the library entrance as we pull back in a crane shot that, like this campus, packs a lot of emotional punch for a reasonable price.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FADE OUT.</Text>
+    </Paragraph>
+  </Content>
+</FinalDraft>
