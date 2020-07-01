@@ -5,8 +5,16 @@ class Script:
         self.action_lines = None
 
     def initialize(self, characters, action_lines):
+        # print(characters)
         self.characters = characters
         self.action_lines = action_lines
+
+    def get_sorted_characters(self):
+        arr = []
+        for name in self.characters:
+            arr.append((name, len(self.characters[name].dialogue)))
+        arr.sort(key=lambda x:x[1], reverse=True)
+        return arr
 
     def get_all_text_from_all_characters(self):
         output = []

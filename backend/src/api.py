@@ -3,6 +3,9 @@ from flask import Flask, request, jsonify, abort, render_template, Response, fla
 from sqlalchemy import exc
 import json
 from flask_cors import CORS
+from movielist import movies
+import script_constructor as sc
+import jsonpickle
 
 app = Flask(__name__)
 CORS(app)
@@ -13,36 +16,44 @@ CORS(app)
 
 @app.route('/scripts')
 def get_preuploaded_scripts():
-    preuploaded_script_data = {
-        "id": -1,
-        "title": "",
-        "author": "",
-        "characterNames": []
-    }
-
     return jsonify({
         "success": True,
-        "scripts": preuploaded_script_data
+        "scripts": movies
     })
 
+# upload new script and return script object
 @app.route('/scripts', methods=['POST'])
 def upload_script():
-    script_object = {}
-    characterNames = []
+    f = request.files['file']
+    title = request.form.get('title')
+    script = sc.initialize_script(title, f)
 
     return jsonify({
         "success": True,
-        "scriptObject": script_object,
-        "characterNames": characterNames
+        "scriptObject": jsonpickle.encode(script),
+        "characterNames": script.get_sorted_characters()
     })
 
 # script_id=-1, script_obj=None, whole_script=False, action_lines=False, characters=[]
 @app.route('/clouds', methods=['POST'])
 def generate_clouds():
+    data = request.args
+    script_id = data.get('script_id')
+
+    if data.get('script_obj') == 'null':
+        script_obj = None
+    else: script_obj = data.get('script_obj')
+
+    whole_script = True if data.get('whole_script') == 'true' else False
+    action_lines = True if data.get('action_lines') == 'true' else False
+    if data.get('characters') and data.get('action_lines') is not '':
+        characters = data.get('characters').split(',')
+    else: characters = []
+
     clouds = []
     return jsonify({
         "success": True,
-        "clouds": clouds
+        "clouds": [script_id,script_obj,whole_script,action_lines,characters]
     })
 
 @app.errorhandler(422)

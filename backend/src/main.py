@@ -32,10 +32,15 @@ def main():
     # data_train = util.readAndCleanDataFromTxt('./resource/aclimdb/movie_data/full_train.txt')
     # data_test =  util.readAndCleanDataFromTxt('./resource/aclimdb/movie_data/full_test.txt')
 
-    script_obj = sc.initialize_script('Bennie')
-    char = script_obj.characters['ruth']
+    script_obj = sc.initialize_script('her')
+    for (name, number) in script_obj.get_sorted_characters():
+        print('("'+name +'",',number,'),')
+    # for c in script_obj.characters:
+        # print(c)
+        # print(c.name, len(c.dialogue))
+    # char = script_obj.characters['ruth']
 
-    data_train = nltk.sent_tokenize(tf_idf.consolidateLines(char.dialogue))
+    # data_train = nltk.sent_tokenize(tf_idf.consolidateLines(char.dialogue))
     
     # string = 'It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair'
     # data_train = string.split(', ')
@@ -46,15 +51,15 @@ def main():
     # data_test = util.get_lemmatized_text(data_test)
     # data_train = util.get_lemmatized_text(data_train)
 
-    stop_words = ['in', 'of', 'at', 'a', 'the']
+    # stop_words = ['in', 'of', 'at', 'a', 'the']
 
-    vectorizer = util.getVectorizer('tfidf')
-    vectorizer.fit(data_train)
-    X = vectorizer.transform(data_train)
-    sentenceValue = tf_idf._score_sentences(X.toarray().tolist(), data_train, vectorizer.vocabulary_.keys())
-    av = tf_idf._find_average_score(sentenceValue)
-    summary = tf_idf._generate_summary(data_train, sentenceValue, av*3)
-    print(summary)
+    # vectorizer = util.getVectorizer('tfidf')
+    # vectorizer.fit(data_train)
+    # X = vectorizer.transform(data_train)
+    # sentenceValue = tf_idf._score_sentences(X.toarray().tolist(), data_train, vectorizer.vocabulary_.keys())
+    # av = tf_idf._find_average_score(sentenceValue)
+    # summary = tf_idf._generate_summary(data_train, sentenceValue, av*3)
+    # print(summary)
     # # X_test = vectorizer.transform(data_test)
 
     # print(X)

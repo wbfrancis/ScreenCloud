@@ -1,14 +1,17 @@
 import script_objects as scr
 import file_parser as fp
+import re
 
 # returns fully initialized Script object
-def initialize_script(script_name):
+def initialize_script(script_name, file=None):
 	# right now, we're getting the dict of the script from the .json file. 
 	# This is technically an extra step, as we already get a dict from the .fdx file
 	# Should probably convert root_dict to a global variable or do this in a more OOP way,
 	# but I'm not yet sure how I'm structuring the project, so that's **TO DO**
-	
-	root_dict = fp.get_root_dict(script_name)
+	if file is None:
+		root_dict = fp.get_root_dict(script_name)
+	else:
+		root_dict = fp.get_root_dict_from_file(file)
 	
 	para_list = root_dict["FinalDraft"]["Content"]["Paragraph"]
 
@@ -73,12 +76,20 @@ def removeParentheticals(string):
 	if (type(string) == dict):
 		string = string['#text']
 
-	firstHalf, secondHalf = "", ""
-	for i in range(len(string)):
-		if string[i] == "(":
-			firstHalf = string[0:i]
-		elif string[i] == ")":
-			if i != len(string)-1:
-				secondHalf = string[i+1, len(string)]
-	if firstHalf == "": return string
-	return firstHalf.strip() + secondHalf
+	pattern = r'\(.*\)'
+	return re.sub(pattern, '', string).strip()
+	
+
+	# firstHalf, secondHalf = "", ""
+	# for i in range(len(string)):
+	# 	if string[i] == "(":
+	# 		firstHalf = string[0:i]
+	# 	elif string[i] == ")":
+	# 		if i != len(string)-1:
+	# 			try:
+	# 				secondHalf = string[i+1, len(string)]
+	# 			except:
+	# 				print(i, string, secondHalf)
+				
+	# if firstHalf == "": return string
+	# return firstHalf.strip() + secondHalf
