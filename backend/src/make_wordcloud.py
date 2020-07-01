@@ -150,8 +150,7 @@ def clean_wordcloud_corpus(corpus):
     return cleaned_corpus
 
 
-
-script = sc.initialize_script('Bennie')
+def ge
 generate_tfidf_cloud(script, 'ruth', False)
 
 

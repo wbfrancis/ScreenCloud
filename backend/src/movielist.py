@@ -1,7 +1,7 @@
 movies = [
     {
         'id':0,
-        'name':"Chinatown",
+        'title':"Chinatown",
         "author":"William Goldman",
         "characters": [
             ("gittes", 536 ),
@@ -64,7 +64,7 @@ movies = [
     },
     {
         'id':1,
-        'name':"Her",
+        'title':"Her",
         "author":"Spike Jonze",
         "characters": [
             ("theodore", 421 ),
@@ -96,7 +96,7 @@ movies = [
     },
     {
         'id':2,
-        'name':"The Lord of the Rings: The Fellowship of the Ring",
+        'title':"The Lord of the Rings: The Fellowship of the Ring",
         "author":"Fran Walsh & Philippa Boyens & Peter Jackson",
         "characters": [
             ("gandalf", 174 ),
@@ -143,7 +143,7 @@ movies = [
     },
     {
         'id':3,
-        'name':"Moonlight",
+        'title':"Moonlight",
         "author":"Barry Jenkins",
         "characters": [
             ("kevin", 145 ),
@@ -175,7 +175,7 @@ movies = [
     },
     {
         'id':4,
-        'name':"Knives Out",
+        'title':"Knives Out",
         "author":"Rian Johnson",
         "characters": [
             ("blanc", 186 ),
@@ -207,7 +207,7 @@ movies = [
     },
     {
         'id':5,
-        'name':"Community - Pilot",
+        'title':"Community - Pilot",
         "author":"Dan Harmon",
         "characters": [
             ("jeff", 117 ),
@@ -227,7 +227,7 @@ movies = [
     },
     {
         'id':6,
-        'name':"Breaking Bad - Pilot",
+        'title':"Breaking Bad - Pilot",
         "author":"Vince Gilligan",
         "characters": [
             ("walt", 102 ),

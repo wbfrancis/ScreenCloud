@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FinalDraft Template="No" Version="2" DocumentType="Script">
     <Content>
-        <Paragraph Type="Action">
-            <Text>CHINATOWN</Text>
-        </Paragraph>
-        <Paragraph Type="Action">
-            <Text>Screenplay by</Text>
-        </Paragraph>
-        <Paragraph Type="Action">
-            <Text>Robert Towne</Text>
-        </Paragraph>
-        <Paragraph Type="Action">
-            <Text>10/9/73 3rd Draft</Text>
-        </Paragraph>
         <Paragraph Type="Action" StartsNewPage="Yes">
             <Text>FADE IN:</Text>
         </Paragraph>

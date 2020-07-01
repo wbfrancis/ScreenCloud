@@ -1,18 +1,42 @@
 # SceneCloud Backend
 
+## Setting Up the Virtual Environment
+
+since the virtual environment is already located in the env folder, all you should need to do is...
+
+$ source env/bin/activate
+
+...to activate the virtual environment and be able to run the flask app.
+
+If for some reason the venv is messing up, just delete everything inside the env folder and run...
+
+FOR MAC/LINUX:
+$ python3 -m venv env
+
+FOR WINDOWS:
+$ py -m venv env
+
+
+Then to install packages, run:
+
+$ pip3 install -r requirements.txt
+
+Finally, to activate the virtual environment you should run:
+
+$ source env/bin/activate
+
+
 ## Running the Flask App
 
-From project dir, navigate to the flaskr folder: 
+From the SceneCloud project dir, navigate to the src folder: 
 
-$ cd backend/src/flaskr
+$ cd backend/src
 
-There's a .flaskenv file so all you need to do is:
+There's already a .flaskenv file so all you need to do is:
 
 $ flask run
 
 And it should start up in development mode.
-
-Since the .venv file is in here I believe you shouldn't need to install dependencies.
 
 
 ## SceneCloud Endpoints
@@ -40,19 +64,32 @@ all errors return json object as follows:
         "scripts": preuploaded_script_data
 }
 
-where preuploaded_script_data is a list/array that follows this format
+
+
+where preuploaded_script_data is a list/array that follows this format (but also check out movielist.py to see exactly what preuploaded_script_data looks like):
+
+NOTE: the characters variable is a list of 2-tuples (or just a 2 element array in JavaScript) sorted in order of most lines to fewest lines. 
+
 [
 	{
 		"id": 0,
-        		"title": "",
-        		"author": "",
-        		"characterNames": [‘john’, ‘daisy’, ‘tim’]
+		"title": "",
+		"author": "",
+		"characters": [
+			[characterNameString,NumberOfLines], 
+			[‘daisy’,40], 
+			[‘tim’,30]
+		]
 	},
 	{
 		"id": 1,
-        		"title": "",
-        		"author": "",
-        		"characterNames": [‘john’, ‘daisy’, ‘tim’]
+		"title": "",
+		"author": "",
+		"characters": [
+			['jimbo',80], 
+			[‘daisy’,40], 
+			[‘tim’,30]
+		]
 	}, 
 		… etc
 ]
@@ -60,6 +97,8 @@ where preuploaded_script_data is a list/array that follows this format
 
 
 ### POST (‘/scripts’)
+*In the post request, I need the .fdx file that was uploaded as well as a "title" param that's the title of the script*
+
 - uploads a user submitted script (must be in the .fdx format)
 - I don’t know exactly about passing a file along in a request parameter, but that’s what needs to be done, I think.
 - on success, returns json object as follows:
@@ -67,7 +106,11 @@ where preuploaded_script_data is a list/array that follows this format
 {
         "success": True,
         "scriptObject": script_object,
-        "characterNames": [‘john’, ‘daisy’, ‘tim’]
+        "characters": [
+					[characterNameString,NumberOfLines], 
+					[‘daisy’,40], 
+					[‘tim’,30]
+				]
  }
 
 The script_object does not need to be accessed, it only needs to be passed to the final POST call in the sequence, described below.
