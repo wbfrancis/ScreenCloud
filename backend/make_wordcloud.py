@@ -1,9 +1,9 @@
-import script_constructor as sc
+from . import script_constructor as sc
 import re
 import random
 import unicodedata
-import util
-from contractions import CONTRACTION_MAP 
+from . import util
+from .contractions import CONTRACTION_MAP 
 from nltk.corpus import stopwords
 from gensim.corpora import Dictionary
 from gensim.models import TfidfModel
@@ -150,7 +150,7 @@ def clean_wordcloud_corpus(corpus):
     return cleaned_corpus
 
 
-generate_tfidf_cloud(script, 'ruth', False)
+# generate_tfidf_cloud(script, 'ruth', False)
 
 
 # print(stopwords.words("english")+['hey', 'hello', 'sure', 'yeah'])

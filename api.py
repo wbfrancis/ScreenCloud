@@ -2,10 +2,10 @@ import os
 from flask import Flask, request, jsonify
 import jsonpickle
 # from flask_cors import CORS
-from movielist import movies
-import script_constructor as sc
+from backend.movielist import movies
+import backend.script_constructor as sc
 
-import make_wordcloud as wc
+import backend.make_wordcloud as wc
 
 app = Flask(__name__, static_folder='./build', static_url_path='/')
 # CORS(app)

@@ -1,5 +1,5 @@
-import script_objects as scr
-import file_parser as fp
+from . import script_objects as scr
+from . import file_parser as fp
 import re
 
 # returns fully initialized Script object
