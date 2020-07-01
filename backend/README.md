@@ -2,6 +2,10 @@
 
 ## Setting Up the Virtual Environment
 
+First, navigate to the backend folder
+
+$ cd backend
+
 since the virtual environment is already located in the env folder, all you should need to do is...
 
 $ source env/bin/activate
