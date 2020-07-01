@@ -23,7 +23,7 @@ $ py -m venv env
 
 Then to install packages, run:
 
-$ pip3 install -r ../requirements.txt
+$ pip3 install -r requirements.txt
 
 Finally, to activate the virtual environment you should run:
 
