@@ -1,15 +1,14 @@
 import os
-from flask import Flask, request, jsonify, abort, render_template, Response, flash, redirect, url_for
-from sqlalchemy import exc
-import json
-from flask_cors import CORS
+from flask import Flask, request, jsonify
+import jsonpickle
+# from flask_cors import CORS
 from movielist import movies
 import script_constructor as sc
-import jsonpickle
+
 import make_wordcloud as wc
 
 app = Flask(__name__, static_folder='./build', static_url_path='/')
-CORS(app)
+# CORS(app)
 
 # db_drop_and_create_all()
 # ENDPOINTS FOR RECIPES

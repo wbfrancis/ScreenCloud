@@ -150,7 +150,6 @@ def clean_wordcloud_corpus(corpus):
     return cleaned_corpus
 
 
-def ge
 generate_tfidf_cloud(script, 'ruth', False)
 
 
