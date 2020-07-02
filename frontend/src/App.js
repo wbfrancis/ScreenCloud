@@ -4,7 +4,9 @@ import './App.css';
 
 function App() {
   useEffect(() => {
-    fetch('/scripts').then(data=>{
+    fetch('/scripts').then(response=>{
+      return response.json()
+    }).then((data)=>{
       console.log(data)
     })
     console.log('mount it!');
