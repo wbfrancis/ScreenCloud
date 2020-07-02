@@ -1,14 +1,14 @@
 import os
 from flask import Flask, request, jsonify
 import jsonpickle
-# from flask_cors import CORS
+from flask_cors import CORS
 from backend.movielist import movies
 import backend.script_constructor as sc
 
 import backend.make_wordcloud as wc
 
 app = Flask(__name__, static_folder='./build', static_url_path='/')
-# CORS(app)
+CORS(app)
 
 # db_drop_and_create_all()
 # ENDPOINTS FOR RECIPES
@@ -41,10 +41,11 @@ def upload_script():
 @app.route('/clouds', methods=['POST'])
 def generate_clouds():
     data = request.args
-    script_id = data.get('script_id')
+    script_id = int(data.get('script_id'))
+    print(script_id)
 
     if data.get('script_obj') == 'null':
-        script_obj = sc.initialize_script(movies[script_id].title)
+        script_obj = sc.initialize_script(movies[script_id]['title'])
     else: script_obj = data.get('script_obj')
 
     whole_script = True if data.get('whole_script') == 'true' else False

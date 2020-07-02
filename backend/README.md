@@ -2,24 +2,13 @@
 
 ## Setting Up the Virtual Environment
 
-First, navigate to the backend folder
-
-$ cd backend
-
-since the virtual environment is already located in the env folder, all you should need to do is...
-
-$ source env/bin/activate
-
-...to activate the virtual environment and be able to run the flask app.
-
-If for some reason the venv is messing up, just delete everything inside the env folder and run...
+First, navigate to root directory, then in the terminal:
 
 FOR MAC/LINUX:
 $ python3 -m venv env
 
 FOR WINDOWS:
 $ py -m venv env
-
 
 Then to install packages, run:
 
@@ -32,11 +21,7 @@ $ source env/bin/activate
 
 ## Running the Flask App
 
-From the SceneCloud project dir, navigate to the src folder: 
-
-$ cd backend/src
-
-There's already a .flaskenv file so all you need to do is:
+There's already a .flaskenv file so all you need to do is run this from the root directory:
 
 $ flask run
 
@@ -45,7 +30,14 @@ And it should start up in development mode.
 
 ## SceneCloud Endpoints
 
-I don’t know the base URI yet, but here are the endpoints as I know them right now.
+during deployment since we aren't doing any CORS stuff, you'll just need to do for example:
+
+fetch('/scripts').then().... etc etc
+
+when in development you'll need to do:
+
+fetch('http://127.0.0.1:5000/scripts')
+
 
 ### Errors
 

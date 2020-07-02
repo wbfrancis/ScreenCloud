@@ -4,7 +4,24 @@ import './App.css';
 
 function App() {
   useEffect(() => {
-    fetch('/scripts').then(response=>{
+    // during production we'll use:
+    // fetch('http://127.0.0.1:5000/scripts').then(response=>{
+
+    // during development we use:
+    fetch('http://127.0.0.1:5000/clouds', {
+      method:'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*'
+      },
+      body: JSON.stringify({
+        script_id:0,
+        script_obj:null,
+        whole_script:true,
+        action_lines:true,
+        characters:'gittes,evelyn,escobar'
+      })
+    }).then(response=>{
       return response.json()
     }).then((data)=>{
       console.log(data)

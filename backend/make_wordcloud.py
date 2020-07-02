@@ -12,6 +12,8 @@ from nltk.tokenize import word_tokenize
 from nltk.stem.porter import PorterStemmer
 from collections import defaultdict
 import string as String
+import base64
+from io import BytesIO
 
 
 def generate_corpus(script, character_name, analyze_action_lines):
@@ -111,7 +113,9 @@ def generate_tfidf_cloud(script, character_name=None, analyze_action_lines=False
     )
 
     wc.generate_from_frequencies(weights_dict)
-    wc.to_file(f"{script.title}+{character_name}+{analyze_action_lines}.png")
+    img = wc.to_image()
+
+    return img
 
     # vectorizer = util.getVectorizer('tfidf')
     # vectorizer.fit(corpus)
@@ -149,9 +153,26 @@ def clean_wordcloud_corpus(corpus):
             cleaned_corpus.append(e)
     return cleaned_corpus
 
-
-# generate_tfidf_cloud(script, 'ruth', False)
-
+def generateClouds(script, whole_script, action_lines, characters):
+    buffered = BytesIO()
+    base64clouds = []
+    if whole_script:
+        img = generate_tfidf_cloud(script, None, False)
+        img.save(buffered, format="JPEG")
+        img_str = base64.b64encode(buffered.getvalue()).decode("ascii")
+        base64clouds.append(img_str)
+    if action_lines:
+        img = generate_tfidf_cloud(script, None, False)
+        img.save(buffered, format="JPEG")
+        img_str = base64.b64encode(buffered.getvalue()).decode("ascii")
+        base64clouds.append(img_str)
+    for c in characters:
+        if c in script.characters:
+            img = generate_tfidf_cloud(script, c, False)
+            img.save(buffered, format="JPEG")
+            img_str = base64.b64encode(buffered.getvalue()).decode("ascii")
+            base64clouds.append(img_str)
+    return base64clouds
 
 # print(stopwords.words("english")+['hey', 'hello', 'sure', 'yeah'])
 
