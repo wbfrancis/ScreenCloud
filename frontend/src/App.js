@@ -1,8 +1,15 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  useEffect(() => {
+    fetch('/scripts').then(data=>{
+      console.log(data)
+    })
+    console.log('mount it!');
+}, []);
+
   return (
     <div className="App">
       <header className="App-header">

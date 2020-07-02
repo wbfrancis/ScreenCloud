@@ -6,7 +6,6 @@ import re
 
 from nltk.corpus import stopwords
 
-
 def preprocess_corpus(corpus, REPLACE_NO_SPACE, REPLACE_WITH_SPACE):
     corpus = [REPLACE_NO_SPACE.sub("", document.lower()) for document in corpus]
     corpus = [REPLACE_WITH_SPACE.sub(" ", document) for document in corpus]
