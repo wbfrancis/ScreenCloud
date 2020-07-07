@@ -1,5 +1,5 @@
-from . import script_objects as scr
-from . import file_parser as fp
+import script_objects as scr
+import file_parser as fp
 import re
 
 # returns fully initialized Script object
@@ -47,7 +47,8 @@ def initialize_script(script_name, file=None):
 					action_lines.append(scr.ActionLine(script, obj["Text"]['#text']))
 			elif (type(obj["Text"])is list):
 				action_lines.append(scr.ActionLine(script, getText(obj["Text"])))
-			else: action_lines.append(scr.ActionLine(script, obj["Text"]))
+			elif not re.compile("\d+\.").match(obj["Text"]):
+				action_lines.append(scr.ActionLine(script, obj["Text"]))
 
 
 	#  give the Script object a list of its Characters and a list of its ActionLines

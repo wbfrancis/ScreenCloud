@@ -4,7 +4,8 @@ from os.path import isfile, join
 
 
 def get_root_dict(script_name):
-	if not has_file('./backend/fdx_scripts/', script_name + '.fdx'):
+	# print(os.listdir('./fdx_scripts'))
+	if not has_file('./fdx_scripts/', script_name + '.fdx'):
 		raise FileNotFoundError("can't find " + script_name)
 	else:
 		return get_dict_from_xml(script_name)
@@ -23,9 +24,9 @@ def has_file(path, filename):
 # 		json.dump(get_dict_from_xml(script_name), file)
 
 def get_dict_from_xml(script_name):
-	with open('./backend/fdx_scripts/' + script_name + '.fdx') as file:
+	with open('./fdx_scripts/' + script_name + '.fdx') as file:
 		return xmltodict.parse(file.read())
 
 def get_dict_from_json(script_name):
-	with open('./backend/fdx_scripts/' + script_name + '.json') as file:
+	with open('./fdx_scripts/' + script_name + '.json') as file:
 		return json.load(file)

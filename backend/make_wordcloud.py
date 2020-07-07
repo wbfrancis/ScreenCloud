@@ -1,9 +1,9 @@
-from . import script_constructor as sc
+import script_constructor as sc
 import re
 import random
 import unicodedata
-from . import util
-from .contractions import CONTRACTION_MAP 
+import util
+from contractions import CONTRACTION_MAP 
 from nltk.corpus import stopwords
 from gensim.corpora import Dictionary
 from gensim.models import TfidfModel
@@ -14,6 +14,8 @@ from collections import defaultdict
 import string as String
 import base64
 from io import BytesIO
+import numpy as np
+from PIL import Image
 
 
 def generate_corpus(script, character_name, analyze_action_lines):
@@ -28,8 +30,8 @@ def generate_corpus(script, character_name, analyze_action_lines):
 def expand_contractions(text, contraction_mapping=CONTRACTION_MAP):
     text = text.strip(' ' + String.punctuation)
 
-    if 'mere' in text:
-        print( text)
+    # if 'mere' in text:
+    #     print( text)
     contractions_pattern = re.compile('({})'.format('|'.join(contraction_mapping.keys())), 
                                       flags=re.IGNORECASE|re.DOTALL)
     def expand_match(contraction):
@@ -66,7 +68,7 @@ def get_common_surface_form(original_corpus, stemmer):
 # thanks to https://www.scss.tcd.ie/~munnellg/projects/visualizing-text.html
 def generate_tfidf_cloud(script, character_name=None, analyze_action_lines=False):
     corpus = generate_corpus(script, character_name, analyze_action_lines)
-    corpus = util.remove_stop_words(corpus, stopwords.words("english")+stopwords.words("spanish")+['hey', 'hello', 'sure', 'yeah'])
+    corpus = util.remove_stop_words(corpus, stopwords.words("english")+stopwords.words("spanish")+['hey', 'hello', 'sure', 'yeah', 'whoa', 'woah'])
     cleaned_untokenized_corpus = clean_wordcloud_corpus(corpus)
     stemmed_corpus = []
     original_corpus = []
@@ -88,7 +90,7 @@ def generate_tfidf_cloud(script, character_name=None, analyze_action_lines=False
         weights.extend(tfidf[e])
     weights_dict = {}
     for pair in weights:
-        if (counts[dictionary[pair[0]]] not in stopwords.words("english")+stopwords.words("spanish")+['hey', 'hello', 'sure', 'yeah']):
+        if (counts[dictionary[pair[0]]] not in stopwords.words("english")+stopwords.words("spanish")+['hey', 'hello', 'sure', 'yeah', 'whoa', 'woah']):
             weights_dict[counts[dictionary[pair[0]]]] = pair[1] 
     # print(weights)
     # for pair in weights:
@@ -97,25 +99,29 @@ def generate_tfidf_cloud(script, character_name=None, analyze_action_lines=False
     # {k: v for k, v in sorted(weights_dict.items(), key=lambda item: item[1])}
     # print({k: v for k, v in sorted(weights_dict.items(), key=lambda item: item[1])})
 
-
+    mask = np.array(Image.open("mask.png"))
 
 
     wc = WordCloud(
     background_color="#0f0f0f",
-    max_words=2000,
+    # background_color='ghostwhite',
+    max_words=300,
     max_font_size=200,
+    # colormap=random.choice([
+    #     'Paired', 'Set1', 'Set2', 'Set3'
+    # ]),
     colormap=random.choice([
-            'PiYG', 'PRGn', 'BrBG', 'PuOr', 'RdBu',
+            'PiYG', 'PRGn', 'BrBG', 'PuOr',
             'RdYlBu', 'RdYlGn', 'Spectral', 'coolwarm', 'bwr', 'seismic']),
     width = 1024,
     height = 720,
-    stopwords=stopwords.words("english")+stopwords.words("spanish")+['hey', 'hello', 'sure', 'yeah']
+    mask=mask,
+    stopwords=stopwords.words("english")+stopwords.words("spanish")+['hey', 'hello', 'sure', 'yeah', 'whoa', 'woah']
     )
 
     wc.generate_from_frequencies(weights_dict)
-    img = wc.to_image()
 
-    return img
+    return wc
 
     # vectorizer = util.getVectorizer('tfidf')
     # vectorizer.fit(corpus)
@@ -157,23 +163,65 @@ def generateClouds(script, whole_script, action_lines, characters):
     buffered = BytesIO()
     base64clouds = []
     if whole_script:
-        img = generate_tfidf_cloud(script, None, False)
+        img = generate_tfidf_cloud(script, None, False).to_image()
         img.save(buffered, format="JPEG")
         img_str = base64.b64encode(buffered.getvalue()).decode("ascii")
         base64clouds.append(img_str)
     if action_lines:
-        img = generate_tfidf_cloud(script, None, False)
+        img = generate_tfidf_cloud(script, None, False).to_image()
         img.save(buffered, format="JPEG")
         img_str = base64.b64encode(buffered.getvalue()).decode("ascii")
         base64clouds.append(img_str)
     for c in characters:
         if c in script.characters:
-            img = generate_tfidf_cloud(script, c, False)
+            img = generate_tfidf_cloud(script, c, False).to_image()
             img.save(buffered, format="JPEG")
             img_str = base64.b64encode(buffered.getvalue()).decode("ascii")
             base64clouds.append(img_str)
     return base64clouds
 
-# print(stopwords.words("english")+['hey', 'hello', 'sure', 'yeah'])
+# script = sc.initialize_script('Breaking Bad - Pilot')
+# generate_tfidf_cloud(script, 'walt', False).to_file('clouds/walt.png')
+# generate_tfidf_cloud(script, None, False).to_file('clouds/bbad.png')
+# generate_tfidf_cloud(script, None, True).to_file('clouds/bbad-actions.png')
+
+# script = sc.initialize_script('Chinatown')
+# generate_tfidf_cloud(script, 'gittes', False).to_file('clouds/gittes.png')
+# generate_tfidf_cloud(script, None, False).to_file('clouds/china.png')
+# generate_tfidf_cloud(script, None, True).to_file('clouds/china-actions.png')
+
+# script = sc.initialize_script('Community - Pilot')
+# generate_tfidf_cloud(script, 'jeff', False).to_file('clouds/jeff.png')
+# generate_tfidf_cloud(script, 'abed', False).to_file('clouds/abed.png')
+# generate_tfidf_cloud(script, None, False).to_file('clouds/comm.png')
+# generate_tfidf_cloud(script, None, True).to_file('clouds/comm-actions.png')
+
+# script = sc.initialize_script('Her')
+# generate_tfidf_cloud(script, 'theodore', False).to_file('clouds/theo.png')
+# generate_tfidf_cloud(script, 'samantha', False).to_file('clouds/sam.png')
+# generate_tfidf_cloud(script, None, False).to_file('clouds/her.png')
+# generate_tfidf_cloud(script, None, True).to_file('clouds/her-actions.png')
+
+# script = sc.initialize_script('Knives Out')
+# generate_tfidf_cloud(script, 'blanc', False).to_file('clouds/blanc.png')
+# generate_tfidf_cloud(script, 'marta', False).to_file('clouds/marta.png')
+# generate_tfidf_cloud(script, None, False).to_file('clouds/knives.png')
+# generate_tfidf_cloud(script, None, True).to_file('clouds/knives-actions.png')
+
+# script = sc.initialize_script('Moonlight')
+# generate_tfidf_cloud(script, 'little', False).to_file('clouds/little.png')
+# generate_tfidf_cloud(script, 'chiron', False).to_file('clouds/chiron.png')
+# generate_tfidf_cloud(script, 'black', False).to_file('clouds/black.png')
+# generate_tfidf_cloud(script, None, False).to_file('clouds/moon.png')
+# generate_tfidf_cloud(script, None, True).to_file('clouds/moon-actions.png')
+
+# script = sc.initialize_script('The Lord of the Rings: The Fellowship of the Ring')
+# generate_tfidf_cloud(script, 'frodo', False).to_file('clouds/frodo.png')
+# generate_tfidf_cloud(script, 'gandalf', False).to_file('clouds/gandalf.png')
+# generate_tfidf_cloud(script, 'aragorn', False).to_file('clouds/aragorn.png')
+# generate_tfidf_cloud(script, None, False).to_file('clouds/lotr.png')
+# generate_tfidf_cloud(script, None, True).to_file('clouds/lotr-actions.png')
+
+
 
 

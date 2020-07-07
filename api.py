@@ -42,7 +42,6 @@ def upload_script():
 def generate_clouds():
     data = request.args
     script_id = int(data.get('script_id'))
-    print(script_id)
 
     if data.get('script_obj') == 'null':
         script_obj = sc.initialize_script(movies[script_id]['title'])
